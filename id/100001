@@ -1,0 +1,20 @@
+# Membuat sebuah blog
+Kamu bisa membuat blog dan mengelolanya dengan WapBlog.ID
+
+## Membuat blog
+1. Masuk ke <a href="https://www.wapblog.id/panel/blog?act=add">Panel Dasar WapBlog.ID</a> (Buat akun jika belum punya)
+2. Masukan subdomain
+3. Pilih domain yang tersedia
+4. Masukan nama blog
+5. Tulis juga deskripsi blog
+6. Tekan tombol *Add*
+
+## Mengelola Blog
+- Kamu bisa menyunting, melihat, dan membaca blogmu
+- Kamu bisa menyesuaikan desain blogmu dengan membaca panduan pada <a href="https://docs.wapblog.id">docs.wapblog.id</a>
+
+## Browser yang mendukung
+- Chrome
+- Firefox
+- Safari
+- MS Edge
