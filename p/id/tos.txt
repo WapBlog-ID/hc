@@ -1,0 +1,87 @@
+<h1>Ketentuan layanan</h1>
+
+<div class="meta">
+
+<time datetime="2021-05-21">21 Mei 2021</time>
+
+</div>
+
+<h4>Pengantar</h4>
+
+<p>Kami tahu mungkin membaca kebijakan adalah hal yang sering Anda lewatkan termasuk pada penggunaan layanan WapBlog.ID. Tetapi kami tegaskan sekali lagi bahwa ini adalah salah satu hal yang perlu Anda ketahui. Untuk apa dibuat, untuk siapa dibuat dan cakupan apa saja ketentuan dibuat akan kami jelaskan pada halaman ini.</p>
+
+<h4>Penyedia layanan</h4>
+
+<p>Layanan WapBlog.ID disediakan untuk Anda dan anda setuju kepada:</p>
+
+<p>WapBlog.ID<br />
+Didirikan bersama komunitas blogger Indonesia dan beroperasi dibawah Hukum di Negara Kesatuan Republik Indonesia.<br /><br />
+Podosari<br />
+Kabupaten Prinsewu, Lampung<br />
+ID</p>
+
+<p>WapBlog.ID - Kalimantan Timur<br />
+Sepaku<br />
+Kabupaten Penajam Paser Utara, Kalimantan Timur<br />
+ID</p>
+
+<h4>Persyaratan Usia</h4>
+
+<p>Jika anda dibawah usia 13 tahun, harap jangan membuat akun WapBlog.ID. Persyaratan ini dibuat untuk membatasi anak dibawah umur yang tidak mengerti hukum yang berlaku terhadap <span class="vxK8p">Undang-Undang Informasi dan Teknologi Elektronik</span> (UU ITE).</p>
+
+<h4>Menggunakan layanan WapBlog.ID</h4>
+
+<p>Jika Anda memenuhi syarat usia sebagai mana tertulis pada kebijakan sebelumnya, Anda bisa membuat akun di WapBlog.ID dan Anda bertanggung jawab atas tindakan yang Anda lakukan dengan Akun WapBlog.ID Anda, termasuk mengambil langkah-langkah yang wajar untuk menjaga keamanan Akun WapBlog.ID Anda, dan kami menganjurkan Anda untuk secara teratur menggunakan <a href="https://accounts.wapblog.id/security">Pemeriksaan Keamanan</a>.</p>
+
+<p>Untuk menyediakan layanan kami kepada Anda, kami terkadang mengirimi Anda pengumuman layanan dan informasi lain. Dan jika anda memiliki masukan, saran, dan informasi berkaitan dengan Layanan WapBlog.ID kami dengan senang hati akan menanggapi hal ini.</p>
+
+<p>Jika Anda memilih untuk memberi kami masukan, seperti saran untuk menyempurnakan layanan kami, kami dapat bertindak berdasarkan masukan Anda <span class="vxK8p">tanpa kewajiban</span> kepada Anda.</p>
+
+<h4>Layanan Blog</h4>
+
+<p>Layanan blog adalah layanan yang kami berikan kepada Anda dan dapat dipergunakan secara bebas dan tanpa batas tetapi tetap mengikuti pedoman kebijakan yang kami tuliskan dibawah.</p>
+
+<ul>
+
+<li><h5>Hosting</h5>
+
+<p>- Anda tidak boleh menghosting blog anda untuk menjadi tuan rumah perjudian baik permainan maupun siaran.<br />
+- Anda tidak boleh menghosting blog anda untuk membagikan segala sesuatu yang menyangkut unsur porno grafi dalam bentuk apapun tanpa terkecuali.<br />
+- Anda tidak boleh membuat blog yang hanya berisi konten <a href="https://www.w3schools.com/html/html_iframe.asp">iFrame</a> dari situs lain.<br />
+- Anda tidak boleh membuat blog yang mengajak sebagian atau orang lain untuk kerusakan, kebencian, kebohongan dan rasisme.</p></li>
+
+<li><h5>Konten</h5>
+
+<p>Konten pada blog yang Anda bagikan (temasuk posting, halaman statis, berkas gambar, video dan lain-lain) harus tidak memiliki masalah hukum terkait hak cipta, hak kekayaan intelektual dan hak milik orang lain, Organisasi, Komunitas atau Situs yang dibuat berdasarkan Undang-Undang dan berlaku diseluruh Negara.</p></li>
+
+<li><h5>Berkas Statis</h5>
+
+<p>Meskipun layanan WapBlog.ID memberikan Anda kebebasan penyimpanan yang tidak dibatasi, tetapi ketika berkas yang anda simpan tidak terpakai untuk blog Anda, maka anda diwajibkan melakukan backup mandiri dan menghapusnya dari penyimpanan blog sebelum kami melakukan penghapusan Blog beserta seluruh konten dalam blog yang berkaitan.</p></li>
+
+<li><h5>Blog Berita</h5>
+
+<p>Untuk Anda yang membuat blog berita, harap pertimbangkan untuk selalu menggunakan sumber yang valid dan memiliki Badan Hukum sebagai sumber referensi informasi artikel berita.</p></li>
+
+</ul>
+
+<h4>Layanan Toko Tema</h4>
+
+<p>Layanan <a href="https://store.wapblog.id">Toko Tema</a> yang menjadi bagian dari layanan WapBlog.ID.</p>
+
+<p>Sebagai Developers Tema:</p>
+
+<ul>
+
+<li><h5>Statis berkas</h5>
+
+<p>Harap memastikan semua statis berkasmu menggunakan sambungan aman (https) baik Stylesheet (CSS), JavaScript dan Gambar.</p></li>
+
+<li><h5>Stylesheet (CSS)</h5>
+
+<p>Harap simpan kode CSS anda dalam satu berkas khusus yang kami sediakan dan tidak menambahkan dalam metode Internal (<code>&lt;style&gt;</code>) dan Inline ( atribut <code>style="properti: nilai;"</code>)</p></li>
+
+<li><h5>Javascript</h5>
+
+<p>Harap tidak menambahkan javascript Tema dalam metode inline (Dengan atribut <code>onclick=""</code> dan sebagainya) dan pertimbangkan menggunakan Inline (<code>&lt;script&gt;</code>) atau Extenal (<code>&lt;script src="https://...."&gt; .... &lt;/script&gt;</code> dari <a href="https://github.com">Github</a> dan layanan pihak ke-3 yang terbuka lainnya)</p></li>
+
+</ul>
