@@ -22,7 +22,7 @@
 
 <li>Switch to the <u>Blog Description</u> column, enter a description that describes the flow and type of your blog. Enter a brief description that is clear and represents everything about your blog. (Example: <b>My diary</b>)</li>
 
-<li>Click the <b>add</b> button and you will see that your blog has been successfully created. And you can immediately see your blog url <b>https://blogsaya.bloger.id</b></li>
+<li>Click the <b>add</b> button and you will see that your blog has been successfully created. And you can immediately see your blog url <b>https://myblog.bloger.id</b></li>
 
 </ul>
 
@@ -44,7 +44,7 @@
 
 <li>Continue to the column of blog type <u>--Choose a Blog Type--</u>, and choose the one that you think fits your blog's category</li>
 
-<li>Click the <b>Add</b> button and you will see that your blog has been successfully created. And you can immediately see your blog url <b>https://blogsaya.bloger.id</b></li>
+<li>Click the <b>Add</b> button and you will see that your blog has been successfully created. And you can immediately see your blog url <b>https://myblog.bloger.id</b></li>
 
 </ul>
 
