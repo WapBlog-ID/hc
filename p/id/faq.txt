@@ -54,26 +54,6 @@
 
 <h4>Q: Bagaimana menulis posting?</h4>
 
-<h3>Melalui Panel Dasar</h3>
-
-<ul>
-
-<li>Buka <a data-url="https://www.wapblog.id/panel/post?act=add" class="switch-url">Add Post</a> melalui <u>menu</u>. Jika kamu belum login blog, kamu akan diarahkan ke halaman blog dan silahkan pilih blog yang ingin kamu tambah posting</li>
-
-<li>Setelah terbuka halaman menulis posting, kamu bisa mengisi judul pada kolom <u>Title</u> minimal 5 karakter</li>
-
-<li>Tuliskan konten posting mu pada kolom <u>Content (WYSIWYG)</u> jika kamu tidak tahu apa itu WYSIWYG, kamu bisa menekan <b>?</b> untuk mengetahuinya. <b>Perlu diingat</b>, jika kamu menulis melalui Panel Dasar kamu menulis dalam mode dokumen tanpa perlu membuat kode html dan kamu bisa beralih ke mode HTML melalui tombol <b>Source</b> di pojok kiri atas kolom <u>Content</u>.</li>
-
-<li>Pilih kategori posting pada kolom <u>Category</u> (Tampil hanya ketika kamu memiliki kategori).</li>
-
-<li>Masukan tags pada kolom <u>Tags</u> (ini adalah meta data yang mirip dengan kategori).</li>
-
-<li>Masukan tanggal posting dengan format <u>TTTT-BB-DD JJ:mm</u> (contoh: 2021-01-26 19:31 untuk membuat posting terbit pada 26 Januari tahun 2021 pukul 19:31)</li>
-
-<li>Tekan tombol <u>Publish</u> untuk menerbitkan posting, atau <u>Draft</u> untuk menyimpan dipanel.</li>
-
-</ul>
-
 <h3>Melalui Panel MY</h3>
 
 <ul>
