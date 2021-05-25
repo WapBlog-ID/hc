@@ -1,0 +1,20 @@
+<h1>Kebijakan Privasi</h1>
+
+<div class="meta">
+
+<time datetime="2021-05-25">25 Mei 2021</time>
+
+</div>
+
+<p class="vxK8q">Dengan menggunakan layanan kami, Anda memercayakan informasi Anda kepada kami. Kami paham bahwa melindungi informasi Anda dan memberikan kontrol kepada Anda adalah tanggung jawab yang besar dan memerlukan kerja keras.</p>
+
+<p>Kebijakan Privasi ini bertujuan untuk membantu Anda memahami informasi yang kami kumpulkan, alasan kami mengumpulkannya, dan cara untuk memperbarui, mengelola, dan menghapus informasi Anda.</p>
+
+<h4>Informasi yang dikumpulkan oleh WapBlog</h4>
+
+<p>Kami mengumpulkan informasi guna memberikan layanan yang lebih baik kepada semua pengguna kami – mulai dari hal dasar seperti bahasa yang Anda gunakan, hingga hal yang lebih rumit seperti situs yang sering anda kunjungi untuk relevansi iklan yang mungkin cocok dengan anda. Informasi yang WapBlog.ID dan cara informasi tersebut digunakan, bergantung pada cara Anda menggunakan layanan kami.</p>
+
+<p>Jika Anda login, kami juga mengumpulkan informasi yang kami simpan di <a href="https://accounts.wapblog.id">Akun WapBlog Anda</a>, yang kami anggap sebagai informasi pribadi.</p>
+
+<img class="wbX" data-x="https://s.wapblog.id/c/img/help/pXSHX1dEaXj.png" />
+
