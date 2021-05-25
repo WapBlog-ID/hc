@@ -1,7 +1,15 @@
 <h1>Tentang WapBlog.ID</h1>
 
+<h4>Pengantar</h4>
+
 <p>WapBlog.ID adalah layanan blogging yang mudah diakses dari ponsel maupun desktop yang mana kamu dapat membuat blog semudah menghitung 1-2-3.</p>
 
 <p>Tidak hanya blog, kamu juga dapat berkirim pesan secara pribadi, real-time dengan pengguna lain, berkirim pesan dengan semua pengguna WapBlog.ID. Bertanya atau bertukar informasi di <a href="https://forum.wapblog.id">Forum WapBlog.ID</a>. Berbagi atau menelusuri tema di toko <a href="https://store.wapblog.id">Tema WapBlog.ID</a>. Dan berbagai kemudahan yang bisa kamu gunakan secara leluasa.</p>
 
 <p>Platform ini berdiri sejak 1 Juni 2015 yang tetap mampu bertahan hingga saat ini.</p>
+
+<p>Platform WapBlog.ID berdiri atas keinginan kami menciptakan layanan blogging yang ramah pada perangkat ponsel, mudah dikelola kapanpun, dimanapun dan dari perangkat apapun. Seiiring berjalannya waktu dan mulai berkurangnya blogger melalui perangkat ponsel terkhusus dengan teknologi J2ME, WapBlog.ID mulai fokus penuh terhadap perangkat Desktop dengan tampilan yang didesain cocok terhadap ponsel-ponsel berteknologi webkit.</p>
+
+<h4>Visi</h4>
+
+<p>Visi kami tetap sama dengan awal berdirinya WapBlog.ID yaitu tetap memberikan layanan blogging yang ramah terhadap semua perangkat tanpa terkecuali hingga perangkat dengan peramban lama.</p>
