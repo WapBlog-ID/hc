@@ -1,0 +1,144 @@
+<h1>Terms of service</h1>
+
+<div class="meta">
+
+<time datetime="2021-05-21">21 May 2021</time>
+
+</div>
+
+<h4>Introduction</h4>
+
+<p>We know that maybe reading policies is something you often miss including using the WapBlog.ID service. But we reiterate that this is one of the things you need to know. We will explain what it is for, who it is made for and what scope the provisions are made for on this page.</p>
+
+<h4>Service providers</h4>
+
+<p>The WapBlog.ID service is provided to you and you agree to:</p>
+
+<p>WapBlog.ID<br />
+It was founded with the Indonesian blogger community and operates under the laws of the Republic of Indonesia.<br /><br />
+Podosari<br />
+Prinsewu, Lampung<br />
+ID</p>
+
+<p>WapBlog.ID - East Kalimantan<br />
+Sepaku<br />
+North Penajam Paser, East Kalimantan<br />
+ID</p>
+
+<h4>Age Requirements</h4>
+
+<p>If you are under the age of 13, please do not create a WapBlog.ID account. This requirement is made to limit minors who do not understand the laws that apply to the <span class="vxK8p">Law on Information and Electronic Technology</span> (UU ITE).</p>
+
+<h4>Using WapBlog.ID Service</h4>
+
+<p>If you meet the age requirements as written in the previous policy, you can create an account at WapBlog.ID and you are responsible for the actions you take with your WapBlog.ID Account, including taking reasonable steps to maintain Account security WapBlog.ID, and we encourage you to regularly use <a href="https://accounts.wapblog.id/security">Security Checks</a>.</p>
+
+<p>In order to provide our services to you, we sometimes send you service announcements and other information. And if you have input, suggestions, and information regarding the WapBlog.ID Service, we will be happy to respond to this.</p>
+
+<p>If you choose to provide us with feedback, such as suggestions for improving our services, we may act on your <span class="vxK8p">feedback without obligation</span> to you.</p>
+
+<h4>Blog Services</h4>
+
+<p>Blog services are services that we provide to you and can be used freely and without limits but still follow the policy guidelines that we write below.</p>
+
+<ul>
+
+<li><h5>Hosting</h5>
+
+<p>- You may not host your blog to host gambling games or broadcasts.<br />
+- You may not host your blog to share anything related to graphic porn in any form without exception.<br />
+- You may not create a blog that only contains <a href="https://www.w3schools.com/html/html_iframe.asp">iFrame</a> content from other sites.<br />
+- You may not create a blog that invites some or other people for damage, hatred, lies and racism.</p></li>
+
+<li><h5>Content</h5>
+
+<p>The content on the blog that you share (including posts, static pages, image files, videos and others) must not have legal issues related to copyright, intellectual property rights and property rights of others, organizations, communities or sites created based on the law and applies in all countries.</p></li>
+
+<li><h5>Static Files</h5>
+
+<p>Even though the WapBlog.ID service gives you unlimited storage freedom, but when the files that you save are not used for your blog, then you are required to do an independent backup and delete them from the blog storage before we delete the Blog and all the content on the blog that is related.</p></li>
+
+<li><h5>News Blog</h5>
+
+<p>For those of you who create news blogs, please consider always using a valid source and having a legal entity as a reference source for news article information.</p></li>
+
+<li><h5>Spam Blog</h5>
+
+<p>Try not to blog excessively where you have no useful or little useful content.</p></li>
+
+</ul>
+
+<h4>Theme Shop Services</h4>
+
+<p><a href="https://store.wapblog.id">Theme Stores</a> services which are part of the WapBlog.ID service.</p>
+
+<p>As Theme Developers:</p>
+
+<ul>
+
+<li><h5>Static files</h5>
+
+<p>Please make sure all your static files use a secure connection (https) both Stylesheets (CSS), JavaScript and Images.</p></li>
+
+<li><h5>Stylesheet (CSS)</h5>
+
+<p>Please save your CSS code in a special file that we provide and do not add in Internal (<code>&lt;style&gt;</code>) and Inline (attribute <code>style="property: value;"</code>)</p></li>
+
+<li><h5>Javascript</h5>
+
+<p>Please do not add Themes javascript in inline methods (With attributes <code>onclick=""</code> and so on) and consider using Inline (<code>&lt;script&gt;</code>) or Extenal (<code>&lt;script src="https:// ...."&gt;....&lt;/script&gt;</code> from <a href="https://github.com">Github</a> and other open 3rd party services)</p></li>
+
+<li><h5>Static filesother</h5>
+
+<p>Please keep static files only in your blog's storage and use an encrypted connection (https) to extract the source files.</p></li>
+
+</ul>
+
+<p>As user:</p>
+
+<ul>
+
+<li>Please always leave positive comments or suggestions and criticisms according to the shared theme.</li>
+
+<li>Avoid comments that lead to racist acts, hate speech and calls to poorly rate themes from related Developers or in whole.</li>
+
+</ul>
+
+<h4>Forum Services</h4>
+
+<p>In forums, you are free to discuss anything but consider that the thread that you create has value and benefits. Forums are also available for you to submit threads that meet the requirements as we explain in the points below.</p>
+
+<ul>
+
+<li>Please send a question thread with the title and content of relevant content. This means that the title is a brief explanation of the question and the content is a more detailed explanation of the question.</li>
+
+<li>Please do not include images that are not thread related.</li>
+
+<li>Please do not create threads of short content such as:<br />
+- Help, bro.<br />
+- Need admin<br />
+- and others</li>
+
+<li>Leave appropriate comments and help with the thread that is discussed and please do not comment if only with greetings, expressions and so on.</li>
+
+</ul>
+
+<h4>Which WapBlog.ID acts on</h4>
+
+<p>If you violate the policies that we make above, or violations that we do not mention, we have the right:</p>
+
+<ul>
+
+<li>Terminate the Account service with related services.</li>
+
+<li>Temporarily suspend your account for all WapBlog.ID services.</li>
+
+<li>Deleting your account</li>
+
+</ul>
+
+<h4>Account Deletion</h4>
+
+<p>We do not doubt that deleting your account will make you feel disappointed, but this action is the final action we take only to deter you from violating our policies and we at WapBlog.ID have no obligation to answer, explain and share information on the reasons for deletion of WapBlog.ID's Account</p>
+
+<p>By continuing to use WapBlog.ID you agree to the above conditions.</p>
