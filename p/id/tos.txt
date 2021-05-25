@@ -62,6 +62,10 @@ ID</p>
 
 <p>Untuk Anda yang membuat blog berita, harap pertimbangkan untuk selalu menggunakan sumber yang valid dan memiliki Badan Hukum sebagai sumber referensi informasi artikel berita.</p></li>
 
+<li><h5>Spam Blog</h5>
+
+<p>Cobalah untuk tidak membuat blog secara berlebihan yang mana kamu tidak memiliki konten yang berisi manfaat atau sedikit manfaat.</p></li>
+
 </ul>
 
 <h4>Layanan Toko Tema</h4>
