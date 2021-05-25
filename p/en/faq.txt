@@ -10,7 +10,7 @@
 
 <ul>
 
-<li>Open the Panel <a data-url="https://my.wapblog.id/panel/blog">Manage Blog</a></li>
+<li>Open the Panel <a data-url="https://my.wapblog.id/panel/blog" class="switch-url">Manage Blog</a></li>
 
 <li>Click <b>Add Blog</b></li>
 
@@ -30,7 +30,7 @@
 
 <ul>
 
-<li>Open Dashboard <a data-url="https://dash.wapblog.id/panel/blog">Blog</a></li>
+<li>Open Dashboard <a data-url="https://dash.wapblog.id/panel/blog" class="switch-url">Blog</a></li>
 
 <li>Click the <b><i class = "fa fa-plus"></i>Add</b> button in the top right corner</li>
 
