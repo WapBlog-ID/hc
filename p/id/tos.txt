@@ -99,3 +99,22 @@ ID</p>
 <li>Hindari komentar yang mengarah pada tindakan rasis, ujaran kebencian dan ajakan untuk memberi rating buruk terhadap tema dari Developer terkait atau seluruhnya.</li>
 
 </ul>
+
+<h4>Layanan Forum</h4>
+
+<p>Dalam forum, kamu bebas membahas apa saja tetapi pertimbangkan bahwa Thread yang kamu buat memiliki nilai dan manfaat. Forum juga tersedia untuk kamu mengirimkan thread yang memenuhi syarat sebagaimana kami jelaskan dalam poin-poin dibawah.</p>
+
+<ul>
+
+<li>Harap mengirimkan thread pertanyaan dengan judul dan isi konten yang relevan. Ini berarti judul adalah penjelasan pertanyaan secara singkat dan isi merupakan penjelasan pertanyaan yang lebih detail.</li>
+
+<li>Harap tidak mencantumkan gambar yang tidak berkaitan dengan Thread.</li>
+
+<li>Harap tidak membuat thread berisi konten yang singkat seperti:<br />
+- Bantu gan<br />
+- Need admin<br />
+- dan lainnya</li>
+
+<li>Berikan komentar yang sesuai dan membantu dengan Thread yang dibahas dan harap tidak berkomentar jika hanya dengan kata sapaan, ungkapan dan lain sebagainya.</li>
+
+</ul>
