@@ -36,7 +36,7 @@
 
 <h4>Menjaga Keamanan Informasi Anda</h4>
 
-<p class="vxK8p">Kami membangun keamanan dalam layanan kami untuk melindungi informasi Anda.</p>
+<p class="vxK8r">Kami membangun keamanan dalam layanan kami untuk melindungi informasi Anda.</p>
 
 <p>Kami menyimpan data informasi pribadi, informasi masuk pada akun, konten pada blog dan semuanya dibawah layanan WapBlog.ID secara enkripsi. Data ini juga di enkripsi secara end-to-end.</p>
 
