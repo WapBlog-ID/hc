@@ -10,7 +10,7 @@
 
 <ul>
 
-<li>Buka Panel <a data-url="https://my.wapblog.id/panel/blog">Kelola Blog</a></li>
+<li>Buka Panel <a data-url="https://my.wapblog.id/panel/blog" class="switch-url">Kelola Blog</a></li>
 
 <li>Klik <b>Add Blog</b></li>
 
@@ -30,7 +30,7 @@
 
 <ul>
 
-<li>Buka Dashboard <a data-url="https://dash.wapblog.id/panel/blog">Blog</a></li>
+<li>Buka Dashboard <a data-url="https://dash.wapblog.id/panel/blog" class="switch-url">Blog</a></li>
 
 <li>Klik tombol <b><i class="fa fa-plus"></i> Tambah</b> di pojok kanan atas</li>
 
