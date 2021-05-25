@@ -1,0 +1,53 @@
+<h1>Privacy Policy</h1>
+
+<div class = "meta">
+
+<time datetime = "2021-05-25">25 May 2021</time>
+
+</div>
+
+<p class = "vxK8q">By using our services, you are entrusting your information to us. We understand that protecting your information and giving you control is a big responsibility and requires hard work.</p>
+
+<p>This Privacy Policy is intended to help you understand what information we collect, why we collect it, and how to update, manage and delete your information.</p>
+
+<h4>Information collected by WapBlog</h4>
+
+<div class="image-article"><img class = "wbX" data-x = "https://s.wapblog.id/c/img/help/pXSHX1dEaXj.png" /></div>
+
+<p>We collect information in order to provide a better service to all of our users - from basic things like the language you use, to more complex things like the sites you visit frequently for the relevance of ads that might be a good match for you. The information WapBlog.ID and how that information is used depends on how you use our services.</p>
+
+<p>If you are logged in, we also collect information that we store at <a href="https://accounts.wapblog.id">Your WapBlog Account</a>, which we consider personal information. In addition to your email address, we display personal information that is general in nature on your profile. The general information we mean is:</p>
+
+<ul>
+
+<li><h5>Full Name</h5>
+
+<p>Your full name will appear on your chronological profile which we <span class="vxK8p">allow</span> you to use your real or pseudonym as contained in our <a href="https://help.wapblog.id/tos">Terms of Service</a>.</p></li>
+
+<li><h5>Gender</h5>
+
+<p>The gender that we display on your profile is your right to tell us this information. We also only display the gender of the male or female according to what you share.</p></li>
+
+<li><h5>Date of Birth</h5>
+
+<p>The date of birth as you store in your personal information is the date of birth that <span class="vxK8p">is not required</span> you fill in correctly.</p></li>
+
+</ul>
+
+<h4>Keeping Your Information Safe</h4>
+
+<p class="vxK8r">We built security into our service to protect your information.</p>
+
+<p>We store personal information data, login information on accounts, content on blogs and everything under the WapBlog.ID service in an encrypted manner. This data is also encrypted end-to-end.</p>
+
+<p>All WapBlog.ID services are built with strong security features that protect your information on a continuous basis. The analysis we get by maintaining our services helps us detect and automatically block security threats from reaching you. And if we detect something at risk that you should know about, we'll let you know and provide guidance steps to keep you better protected.</p>
+
+<p>We work hard to protect you and WapBlog.ID from unauthorized access, change, disclosure, or deletion of information we store, including:</p>
+
+<ul>
+
+<li>We use encryption to keep your data private at end-to-end</li>
+
+<li>We offer a variety of security features and Security Checks</li>
+
+</ul>
