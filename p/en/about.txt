@@ -1,7 +1,15 @@
 <h1>About WapBlog.ID</h1>
 
+<h4>Introduction</h4>
+
 <p>WapBlog.ID is a blogging service that is easily accessible from mobile or desktop where you can create a blog as easy as 1-2-3.</p>
 
-<p>Not only blogs, you can also send private, real-time messages with other users, send messages with all WapBlog.ID users. Ask questions or exchange information at <a href="https://forum.wapblog.id">Forum WapBlog.ID</a>. Share or explore themes on the store <a href="https://store.wapblog.id">Theme WapBlog.ID</a>. And various conveniences that you can use freely.</p>
+<p>Not only blogs, you can also send private, real-time messages with other users, send messages with all WapBlog.ID users. Ask questions or exchange information at <a href="https://forum.wapblog.id"> WapBlog.ID Forums </a>. Share or browse themes on the store <a href="https://store.wapblog.id">WapBlog.ID Themes</a>. And various conveniences that you can use freely.</p>
 
-<p>This platform was founded on June 1, 2015 which is still able to survive until today.</p>
+<p>This platform was founded on June 1, 2015 and is still able to survive today.</p>
+
+<p>The WapBlog.ID platform stands on our desire to create a blogging service that is friendly to mobile devices, easy to manage anytime, anywhere and from any device. As time goes by and the decline in bloggers using mobile devices especially with J2ME technology, WapBlog.ID has begun to focus fully on Desktop devices with a display designed to suit mobile phones with webkit technology.</p>
+
+<h4>Vision</h4>
+
+<p>Our vision remains the same as the inception of WapBlog.ID, which is to continue to provide blogging services that are friendly to all devices without exception to devices with old browsers.</p>
