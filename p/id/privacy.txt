@@ -12,9 +12,9 @@
 
 <h4>Informasi yang dikumpulkan oleh WapBlog</h4>
 
+<div class="image-article"><img class="wbX" data-x="https://s.wapblog.id/c/img/help/pXSHX1dEaXj.png" /></div>
+
 <p>Kami mengumpulkan informasi guna memberikan layanan yang lebih baik kepada semua pengguna kami – mulai dari hal dasar seperti bahasa yang Anda gunakan, hingga hal yang lebih rumit seperti situs yang sering anda kunjungi untuk relevansi iklan yang mungkin cocok dengan anda. Informasi yang WapBlog.ID dan cara informasi tersebut digunakan, bergantung pada cara Anda menggunakan layanan kami.</p>
 
 <p>Jika Anda login, kami juga mengumpulkan informasi yang kami simpan di <a href="https://accounts.wapblog.id">Akun WapBlog Anda</a>, yang kami anggap sebagai informasi pribadi.</p>
-
-<img class="wbX" data-x="https://s.wapblog.id/c/img/help/pXSHX1dEaXj.png" />
 
