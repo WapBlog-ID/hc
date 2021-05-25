@@ -1,0 +1,99 @@
+<h1>Pertanyaan yang sering ditanyakan</h1>
+
+<ul>
+
+<li>
+
+<h4>Q: Bagaimana membuat blog?</h4>
+
+<h3>Melalui Panel MY</h3>
+
+<ul>
+
+<li>Buka Panel <a data-url="https://my.wapblog.id/panel/blog">Kelola Blog</a></li>
+
+<li>Klik <b>Add Blog</b></li>
+
+<li>Masukan url blog yang kamu inginkan di kolom <u>Subdomain</u>. (contoh: <b>blogsaya</b>).</li>
+
+<li>Beralih ke kolom <u>Domain</u>, pilih satu domain yang tersedia (contoh: <b>.bloger.id</b>)</li>
+
+<li>Beralih ke kolom <u>Blog Name</u>, masukan nama blog yang akan menjadi judul utama blog kamu. (contoh: <b>Blog Saya</b>)</li>
+
+<li>Beralih ke kolom <u>Blog Description</u>, masukan deskripsi yang menggambarkan aliran dan jenis blogmu. Masukan deskripsi yang singkat jelas dan mewakili semua tentang blogmu. (contoh: <b>Catatan harian saya</b>)</li>
+
+<li>Klik tombol <b>add</b> dan kamu akan melihat blogmu sudah berhasil dibuat. Dan kamu bisa langsung melihat blogmu url <b>https://blogsaya.bloger.id</b></li>
+
+</ul>
+
+<h3>Melalui Panel Dash</h3>
+
+<ul>
+
+<li>Buka Dashboard <a data-url="https://dash.wapblog.id/panel/blog">Blog</a></li>
+
+<li>Klik tombol <b><i class="fa fa-plus"></i> Tambah</b> di pojok kanan atas</li>
+
+<li>Masukan url blog yang kamu inginkan di kolom <u>Url Blog</u>. (contoh: <b>blogsaya</b>).</li>
+
+<li>Beralih ke kolom <u>-- Domain --</u>, pilih satu domain yang tersedia (contoh: <b>.bloger.id</b>)</li>
+
+<li>Beralih ke kolom <u>Nama Blog</u>, masukan nama blog yang akan menjadi judul utama blog kamu. (contoh: <b>Blog Saya</b>)</li>
+
+<li>Beralih ke kolom <u>Deskripsi Blog</u>, masukan deskripsi yang menggambarkan aliran dan jenis blogmu. Masukan deskripsi yang singkat jelas dan mewakili semua tentang blogmu. (contoh: <b>Catatan harian saya</b>)</li>
+
+<li>Lanjut ke kolom <u>--Pilih Jenis Blog--</u>, dan pilih satu yang menurutmu cocok dengan kategori blogmu</li>
+
+<li>Klik tombol <b>Tambah</b> dan kamu akan melihat blogmu sudah berhasil dibuat. Dan kamu bisa langsung melihat blogmu url <b>https://blogsaya.bloger.id</b></li>
+
+</ul>
+
+</li>
+
+<li>
+
+<h4>Q: Bagaimana menulis posting?</h4>
+
+<h3>Melalui Panel Dasar</h3>
+
+<ul>
+
+<li>Buka <a data-url="https://www.wapblog.id/panel/post?act=add" class="switch-url">Add Post</a> melalui <u>menu</u>. Jika kamu belum login blog, kamu akan diarahkan ke halaman blog dan silahkan pilih blog yang ingin kamu tambah posting</li>
+
+<li>Setelah terbuka halaman menulis posting, kamu bisa mengisi judul pada kolom <u>Title</u> minimal 5 karakter</li>
+
+<li>Tuliskan konten posting mu pada kolom <u>Content (WYSIWYG)</u> jika kamu tidak tahu apa itu WYSIWYG, kamu bisa menekan <b>?</b> untuk mengetahuinya. <b>Perlu diingat</b>, jika kamu menulis melalui Panel Dasar kamu menulis dalam mode dokumen tanpa perlu membuat kode html dan kamu bisa beralih ke mode HTML melalui tombol <b>Source</b> di pojok kiri atas kolom <u>Content</u>.</li>
+
+<li>Pilih kategori posting pada kolom <u>Category</u> (Tampil hanya ketika kamu memiliki kategori).</li>
+
+<li>Masukan tags pada kolom <u>Tags</u> (ini adalah meta data yang mirip dengan kategori).</li>
+
+<li>Masukan tanggal posting dengan format <u>TTTT-BB-DD JJ:mm</u> (contoh: 2021-01-26 19:31 untuk membuat posting terbit pada 26 Januari tahun 2021 pukul 19:31)</li>
+
+<li>Tekan tombol <u>Publish</u> untuk menerbitkan posting, atau <u>Draft</u> untuk menyimpan dipanel.</li>
+
+</ul>
+
+<h3>Melalui Panel MY</h3>
+
+<ul>
+
+<li>Buka <a data-url="https://my.wapblog.id/panel/post?act=add" class="switch-url">Add Post</a> melalui <u>menu</u>. Jika kamu belum login blog, kamu akan diarahkan ke halaman blog dan silahkan pilih blog yang ingin kamu tambah posting</li>
+
+<li>Setelah terbuka halaman menulis posting, kamu bisa mengisi judul pada kolom <u>Title</u> minimal 5 karakter</li>
+
+<li>Tuliskan konten posting mu pada kolom <u>Content</u>. <b>Perlu diingat</b>, jika kamu menulis melalui veri <b>MY</b> kamu harus menuliskan dalam bentuk html penuh.</li>
+
+<li>Pilih kategori posting pada kolom <u>Category</u> (Tampil hanya ketika kamu memiliki kategori).</li>
+
+<li>Masukan tags pada kolom <u>Tags</u> (ini adalah meta data yang mirip dengan kategori).</li>
+
+<li>Masukan tanggal posting dengan format <u>TTTT-BB-DD JJ:mm</u> (contoh: 2021-01-26 19:31 untuk membuat posting terbit pada 26 Januari tahun 2021 pukul 19:31)</li>
+
+<li>Tekan tombol <u>Publish</u> untuk menerbitkan posting, atau <u>Draft</u> untuk menyimpan dipanel.</li>
+
+</ul>
+
+</li>
+
+</ul>
