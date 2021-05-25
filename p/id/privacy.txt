@@ -14,7 +14,40 @@
 
 <div class="image-article"><img class="wbX" data-x="https://s.wapblog.id/c/img/help/pXSHX1dEaXj.png" /></div>
 
-<p>Kami mengumpulkan informasi guna memberikan layanan yang lebih baik kepada semua pengguna kami – mulai dari hal dasar seperti bahasa yang Anda gunakan, hingga hal yang lebih rumit seperti situs yang sering anda kunjungi untuk relevansi iklan yang mungkin cocok dengan anda. Informasi yang WapBlog.ID dan cara informasi tersebut digunakan, bergantung pada cara Anda menggunakan layanan kami.</p>
+<p>Kami mengumpulkan informasi guna memberikan layanan yang lebih baik kepada semua pengguna kami – mulai dari hal dasar seperti bahasa yang Anda gunakan, hingga hal yang lebih rumit seperti situs yang sering Anda kunjungi untuk relevansi iklan yang mungkin cocok dengan Anda. Informasi yang WapBlog.ID dan cara informasi tersebut digunakan, bergantung pada cara Anda menggunakan layanan kami.</p>
 
-<p>Jika Anda login, kami juga mengumpulkan informasi yang kami simpan di <a href="https://accounts.wapblog.id">Akun WapBlog Anda</a>, yang kami anggap sebagai informasi pribadi.</p>
+<p>Jika Anda login, kami juga mengumpulkan informasi yang kami simpan di <a href="https://accounts.wapblog.id">Akun WapBlog Anda</a>, yang kami anggap sebagai informasi pribadi. Selain alamat email, kami menampilkan informasi pribadi yang bersifat umum pada profil Anda. Adapun informasi umum yang kami maksud adalah:</p>
 
+<ul>
+
+<li><h5>Nama Lengkap</h5>
+
+<p>Nama lengkap akan tampil pada profil kronologi Anda yang mana kami <span class="vxK8p">membebaskan</span> kamu menggunakan nama asli ataupun samaran sebagai mana tertuang dalam <a href="https://help.wapblog.id/tos">Ketentuan layanan</a> kami.</p></li>
+
+<li><h5>Jenis Kelamin</h5>
+
+<p>Jenis kelamin yang Kami tampilkan pada profil adalah hak Anda memberitahukan informasi ini kepada kami yang mana juga Kami hanya menampilkan jenis kelamin Laki-laki atau Perempuan sesuai dengan apa yang Anda bagikan.</p></li>
+
+<li><h5>Tanggal Lahir</h5>
+
+<p>Tanggal lahir sebagaimana Anda simpan dalam informasi pribadi adalah tanggal Lahir yang <span class="vxK8p">tidak wajib</span> Anda isi dengan tepat.</p></li>
+
+</ul>
+
+<h4>Menjaga Keamanan Informasi Anda</h4>
+
+<p class="vxK8p">Kami membangun keamanan dalam layanan kami untuk melindungi informasi Anda.</p>
+
+<p>Kami menyimpan data informasi pribadi, informasi masuk pada akun, konten pada blog dan semuanya dibawah layanan WapBlog.ID secara enkripsi. Data ini juga di enkripsi secara end-to-end.</p>
+
+<p>Semua layanan WapBlog.ID dibuat dengan fitur keamanan yang kuat yang melindungi informasi Anda secara terus-menerus. Analisis yang kami dapatkan dengan mempertahankan layanan kami membantu kami mendeteksi dan otomatis memblokir ancaman keamanan agar tidak menjangkau Anda. Dan jika kami mendeteksi sesuatu yang berisiko yang sebaiknya Anda ketahui, kami akan memberi tahu Anda dan memberikan langkah-langkah panduan agar Anda tetap terlindungi dengan lebih baik.</p>
+
+<p>Kami bekerja keras untuk melindungi Anda dan WapBlog.ID dari akses yang tidak sah, perubahan, pengungkapan, atau penghapusan informasi yang kami simpan, termasuk:</p>
+
+<ul>
+
+<li>Kami menggunakan enkripsi untuk menjaga data Anda tetap pribadi saat end-to-end</li>
+
+<li>Kami menawarkan berbagai fitur keamanan dan Pemeriksaan Keamanan</li>
+
+</ul>
