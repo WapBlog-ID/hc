@@ -1,0 +1,99 @@
+<h1>Frequently asked questions</h1>
+
+<ul>
+
+<li>
+
+<h4>Q: How to create a blog?</h4>
+
+<h3>Via the MY Panel</h3>
+
+<ul>
+
+<li>Open the Panel <a data-url="https://my.wapblog.id/panel/blog">Manage Blog</a></li>
+
+<li>Click <b>Add Blog</b></li>
+
+<li>Enter your desired blog url in the <u>Subdomain</u> column (example: <b>myblog</b>)</li>
+
+<li>Switch to the <u>Domain</u> column, select an available domain (example: <b>.bloger.id</b>)</li>
+
+<li>Switch to the <u>Blog Name</u> column, enter the blog name which will be the main title of your blog. (example: <b>My Blog</b>)</li>
+
+<li>Switch to the <u>Blog Description</u> column, enter a description that describes the flow and type of your blog. Enter a brief description that is clear and represents everything about your blog. (Example: <b>My diary</b>)</li>
+
+<li>Click the <b>add</b> button and you will see that your blog has been successfully created. And you can immediately see your blog url <b>https://blogsaya.bloger.id</b></li>
+
+</ul>
+
+<h3>Via the Dash Panel</h3>
+
+<ul>
+
+<li>Open Dashboard <a data-url="https://dash.wapblog.id/panel/blog">Blog</a></li>
+
+<li>Click the <b><i class = "fa fa-plus"></i>Add</b> button in the top right corner</li>
+
+<li>Enter your desired blog url in the <u>Blog Url</u> column. (Example: <b>myblog</b>).</li>
+
+<li>Switch to <u>--Domain --</u> column, select an available domain (example: <b>.bloger.id</b>)</li>
+
+<li>Switch to the <u>Blog Name</u> column, enter the blog name which will be the main title of your blog. (example: <b>My Blog</b>)</li>
+
+<li>Switching to the <u>Blog Description</u> column, enter a description that describes the flow and type of your blog. Enter a brief description that is clear and represents everything about your blog. (Example: <b>My diary</b>)</li>
+
+<li>Continue to the column of blog type <u>--Choose a Blog Type--</u>, and choose the one that you think fits your blog's category</li>
+
+<li>Click the <b>Add</b> button and you will see that your blog has been successfully created. And you can immediately see your blog url <b>https://blogsaya.bloger.id</b></li>
+
+</ul>
+
+</li>
+
+<li>
+
+<h4>Q: How do I write a post?</h4>
+
+<h3>Via the Basic Panel</h3>
+
+<ul>
+
+<li>Open <a data-url="https://www.wapblog.id/panel/post?act=add" class="switch-url">Add Post</a> via the <u>menu</u>. If you are not logged in to the blog, you will be directed to the blog page and please select the blog you want to add a post to</li>
+
+<li>After the post writing page opens, you can enter the title in the <u>Title</u> column at least 5 characters</li>
+
+<li>Write the content of your post in the <u>Content (WYSIWYG)</u> column. If you don't know what WYSIWYG is, you can press <b>?</b> to find out. <b>Keep in mind</b>, if you write through the Basic Panel you write in document mode without the need to generate html code and you can switch to HTML mode via the <b>Source</b> button in the upper left corner of the <u>Content</u>.</li>
+
+<li>Select the post category in the <u>Category</u> column (Shown only when you have a category).</li>
+
+<li>Put tags in the <u>Tags</u> field (this is meta data that is similar to categories).</li>
+
+<li>Enter the date of posting with the format <u>YYYY-MM-DD HH:mm</u> (example: 2021-01-26 19:31 to make the post published on January 26, 2021 at 19:31)</li>
+
+<li>Press the <u>Publish</u> button to publish the post, or <u>Draft</u> to save the panel.</li>
+
+</ul>
+
+<h3>Via the MY Panel</h3>
+
+<ul>
+
+<li>Open <a data-url="https://my.wapblog.id/panel/post?act=add" class="switch-url">Add Post</a> via the <u>menu</u>. If you are not logged in to the blog, you will be directed to the blog page and please select the blog you want to add a post</li>
+
+<li>After the post writing page opens, you can enter the title in the <u>Title</u> column at least 5 characters</li>
+
+<li>Write the content of your post in the <u>Content</u> column. <b>Keep in mind</b>, if you write via the <b>MY</b> veri you must write it in full html form.</li>
+
+<li>Select the post category in the <u>Category</u> column (Shown only when you have a category).</li>
+
+<li>Put tags in the <u>Tags</u> field (this is meta data that is similar to categories).</li>
+
+<li>Enter the date of posting with the format <u>YYYY-MM-DD HH:mm</u> (example: 2021-01-26 19:31 to make the post published on January 26, 2021 at 19:31)</ li>
+
+<li>Press the <u>Publish</u> button to publish the post, or <u>Draft</u> to save the panel.</li>
+
+</ul>
+
+</li>
+
+</ul>
