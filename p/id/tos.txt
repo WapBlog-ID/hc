@@ -84,4 +84,18 @@ ID</p>
 
 <p>Harap tidak menambahkan javascript Tema dalam metode inline (Dengan atribut <code>onclick=""</code> dan sebagainya) dan pertimbangkan menggunakan Inline (<code>&lt;script&gt;</code>) atau Extenal (<code>&lt;script src="https://...."&gt; .... &lt;/script&gt;</code> dari <a href="https://github.com">Github</a> dan layanan pihak ke-3 yang terbuka lainnya)</p></li>
 
+<li><h5>Berkas statis lainnya</h5>
+
+<p>Harap simpan berkas statis hanya dalam penyimpanan blog Anda dan gunkanan sambungan yang dienkripsi (https) untuk mengambil sumber berkas tersebut.</p></li>
+
+</ul>
+
+<p>Sebagai pengguna:</p>
+
+<ul>
+
+<li>Harap selalu meninggalkan komentar positif atau saran dan kritik sesuai dengan Tema yang dibagikan.</li>
+
+<li>Hindari komentar yang mengarah pada tindakan rasis, ujaran kebencian dan ajakan untuk memberi rating buruk terhadap tema dari Developer terkait atau seluruhnya.</li>
+
 </ul>
