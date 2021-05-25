@@ -30,7 +30,7 @@
 
 <ul>
 
-<li>Open Dashboard <a data-url="https://dash.wapblog.id/panel/blog" class="switch-url">Blog</a></li>
+<li>Open Dashboard <a data-url="https://dash.wapblog.id/blog" class="switch-url">Blog</a></li>
 
 <li>Click the <b><i class = "fa fa-plus"></i>Add</b> button in the top right corner</li>
 
@@ -53,26 +53,6 @@
 <li>
 
 <h4>Q: How do I write a post?</h4>
-
-<h3>Via the Basic Panel</h3>
-
-<ul>
-
-<li>Open <a data-url="https://www.wapblog.id/panel/post?act=add" class="switch-url">Add Post</a> via the <u>menu</u>. If you are not logged in to the blog, you will be directed to the blog page and please select the blog you want to add a post to</li>
-
-<li>After the post writing page opens, you can enter the title in the <u>Title</u> column at least 5 characters</li>
-
-<li>Write the content of your post in the <u>Content (WYSIWYG)</u> column. If you don't know what WYSIWYG is, you can press <b>?</b> to find out. <b>Keep in mind</b>, if you write through the Basic Panel you write in document mode without the need to generate html code and you can switch to HTML mode via the <b>Source</b> button in the upper left corner of the <u>Content</u>.</li>
-
-<li>Select the post category in the <u>Category</u> column (Shown only when you have a category).</li>
-
-<li>Put tags in the <u>Tags</u> field (this is meta data that is similar to categories).</li>
-
-<li>Enter the date of posting with the format <u>YYYY-MM-DD HH:mm</u> (example: 2021-01-26 19:31 to make the post published on January 26, 2021 at 19:31)</li>
-
-<li>Press the <u>Publish</u> button to publish the post, or <u>Draft</u> to save the panel.</li>
-
-</ul>
 
 <h3>Via the MY Panel</h3>
 
