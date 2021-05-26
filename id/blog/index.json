@@ -9,10 +9,12 @@
   ["100008", "Menggunakan Google Analytics"],
   ["100009", "Pengaturan dasar blog"],
   ["100010", "Pengaturan Robots dan Iklan TXT"],
-  ["100011", "Mendesain sendiri Blog"],
+  ["100011", "Mendesain sendiri blog"],
   ["100012", "Menggunakan desain di toko untuk blog"],
-  ["100013", "Mengatur kategori posting"],
+  ["100013", "Mengatur Kategori posting"],
   ["100014", "Widget Navigasi"],
   ["100015", "Widget Penanda"],
-  ["100016", "Mengelola Buku tamu"]
+  ["100016", "Mengelola Buku tamu"],
+  ["100017", "Menambahkan blog ke Google Webmasters Tools"],
+  ["100018", "Mendaftar Adsense untuk Subdomain WapBlog.ID"],
 ]
