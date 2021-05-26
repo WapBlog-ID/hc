@@ -1,8 +1,17 @@
-# Menambah halaman
-Kamu bisa membuat halaman untuk konten statis seperti "Tentang Saya" atau "Kontak Saya"
+<h1>Menambah halaman</h1>
 
-## Membuat halaman baru
-1. <a href="https://www.wapblog.id/panel/pages?act=new">Masuk kehalaman Pages</a>
-2. Isi judul
-3. Isi kontent (Konten sudah berformat dokumen)
-4. Klik tambah
+<p>Kamu bisa membuat halaman untuk konten statis seperti "Tentang Saya" atau "Kontak Saya"</p>
+
+<h4>Membuat halaman baru</h4>
+
+<ul>
+
+<li><a href="https://dash.wapblog.id/pages">Masuk kehalaman Pages</a></li>
+
+<li>Isi judul</li>
+
+<li>Isi kontent (Konten sudah berformat dokumen)</li>
+
+<li>Klik tambah</li>
+
+</ul>
