@@ -1,4 +1,18 @@
 [
   ["100001", "Membuat sebuah blog"],
-  ["100002", "Menambah halaman"]
+  ["100002", "Menambah halaman"],
+  ["100003", "Membuat, menyunting, dan menghapus posting"],
+  ["100004", "Menambah gambar, video, dan berkas statis di posting"],
+  ["100005", "Mengelola komentar"],
+  ["100006", "Memasang Iklan"],
+  ["100007", "Mengatur domain sendiri"],
+  ["100008", "Menggunakan Google Analytics"],
+  ["100009", "Pengaturan dasar blog"],
+  ["100010", "Pengaturan Robots dan Iklan TXT"],
+  ["100011", "Mendesain sendiri Blog"],
+  ["100012", "Menggunakan desain di toko untuk blog"],
+  ["100013", "Mengatur kategori posting"],
+  ["100014", "Widget Navigasi"],
+  ["100015", "Widget Penanda"],
+  ["100016", "Mengelola Buku tamu"]
 ]
