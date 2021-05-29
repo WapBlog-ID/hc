@@ -78,7 +78,7 @@
 
 <li>
 
-<h4>Apa itu tema ponsel?</h4>
+<h4>Q: Apa itu tema ponsel?</h4>
 
 <p>Tema ponsel adalah tema yang dibuat untuk mendeteksi peramban ponsel berteknologi J2ME(Lihat <a href="https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition" target="_blank">Wikipedia</a>) atau ponsel lainnya yang tidak mendukung teknologi WebKit (Lihat <a href="https://id.wikipedia.org/wiki/WebKit" target="_blank">Wikipedia</a>).</p>
 
@@ -86,9 +86,29 @@
 
 <li>
 
-<h4>Apa itu tema ponsel High-End?</h4>
+<h4>Q: Apa itu tema ponsel High-End?</h4>
 
 <p>Pada dasarnya, WapBlog.ID memberikan kamu 3 mode tampilan yaitu ponsel, high end, dan desktop. High end adalah mode tema yang akan ditampilkan ketika kamu mengunjungi blog dengan peramban yang memiliki teknologi WebKit (Lihat <a href="https://id.wikipedia.org/wiki/WebKit" target="_blank">Wikipedia</a>). Tema ini secara default mati dan kamu harus menyalakan pada <b>pengaturan dasar blog</b> kolom <b>Tema Ponsel High-End</b>. Jika pengaturan ini mati, maka otomatis peramban yang memiliki teknologi Webkit akan mengakses tema Desktop yang mana tema default yang kami sediakan mendukung tampilan responsive.</p>
+
+</li>
+
+<li>
+
+<h4>Q: Saya sudah merubah CSS ponsel, mengapa tidak berubah?</h4>
+
+<p>Secara default semua CSS pada blog tidak diatur untuk proses cache atau penyimpanan ke lokal memori peramban. Namun, beberapa peramban tetap <b>memaksa</b> akan menyimpan CSS ke memori peramban (Mode hemat data) pada perangkat yang mana hal ini bisa menambah kecepatan ketika kamu berseluncur disemua situs atau blog yang kamu kunjungi termasuk diluar WapBlog.ID.</p>
+
+<p>Ada beberapa cara untuk bisa langsung melewati proses caching peramban:</p>
+
+<ul>
+
+<li>Menghapus cache untuk situs atau blog yang spesifik dipengaturan peramban.</li>
+
+<li>Menggunakan bypass dengan menambahkan Search Query (misalnya <code>?v=1</code> untuk pengeditan pertama)</li>
+
+<li>Menggunakan mode Incognito atau mode Samaran pada peramban. (Tentang Incognito: <a href="Chrome https://support.google.com/chrome/answer/95464?hl=id" target="_blank">baca disini</a>, Firefox <a href="https://support.mozilla.org/id/kb/Penjelajahan%20Pribadi" target="_blank">baca disini</a>)</li>
+
+</ul>
 
 </li>
 
