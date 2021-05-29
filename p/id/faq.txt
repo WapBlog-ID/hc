@@ -76,4 +76,20 @@
 
 </li>
 
+<li>
+
+<h4>Apa itu tema ponsel?</h4>
+
+<p>Tema ponsel adalah tema yang dibuat untuk mendeteksi peramban ponsel berteknologi J2ME(Lihat <a href="https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition" target="_blank">Wikipedia</a>) atau ponsel lainnya yang tidak mendukung teknologi WebKit (Lihat <a href="https://id.wikipedia.org/wiki/WebKit" target="_blank">Wikipedia</a>).</p>
+
+</li>
+
+<li>
+
+<h4>Apa itu tema ponsel High-End?</h4>
+
+<p>Pada dasarnya, WapBlog.ID memberikan kamu 3 mode tampilan yaitu ponsel, high end, dan desktop. High end adalah mode tema yang akan ditampilkan ketika kamu mengunjungi blog dengan peramban yang memiliki teknologi WebKit (Lihat <a href="https://id.wikipedia.org/wiki/WebKit" target="_blank">Wikipedia</a>). Tema ini secara default mati dan kamu harus menyalakan pada <b>pengaturan dasar blog</b> kolom <b>Tema Ponsel High-End</b>. Jika pengaturan ini mati, maka otomatis peramban yang memiliki teknologi Webkit akan mengakses tema Desktop yang mana tema default yang kami sediakan mendukung tampilan responsive.</p>
+
+</li>
+
 </ul>
