@@ -108,6 +108,8 @@
 
 <li>Menggunakan mode Incognito atau mode Samaran pada peramban. (Tentang Incognito: <a class="switch-url" data-url="Chrome https://support.google.com/chrome/answer/95464?hl=id">baca disini</a>, Firefox <a class="switch-url" data-url="https://support.mozilla.org/id/kb/Penjelajahan%20Pribadi">baca disini</a>)</li>
 
+<li>Paksa Reload dengan <code>CTRL+Shift+R</code> pada OS Windows atau <code>Command+Shift+R</code> untuk OS Mac di peramban desktop.</li>
+
 </ul>
 
 </li>
