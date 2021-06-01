@@ -110,6 +110,8 @@
 
 <li>Paksa Reload dengan <code>CTRL+Shift+R</code> pada OS Windows atau <code>Command+Shift+R</code> untuk OS Mac di peramban desktop.</li>
 
+<li>Membuka langsung url berkas css (<code>https://subdomain.contoh.com/stylesheet/desktop.css</code>)</li>
+
 </ul>
 
 </li>
