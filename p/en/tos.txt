@@ -68,7 +68,7 @@ ID</p>
 
 </ul>
 
-<h4>Theme Shop Services</h4>
+<h4>Terms of Theme Store</h4>
 
 <p><a href="https://store.wapblog.id">Theme Stores</a> services which are part of the WapBlog.ID service.</p>
 
