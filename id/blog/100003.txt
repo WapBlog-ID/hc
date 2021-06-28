@@ -32,3 +32,19 @@ Jika kamu mengisi tanggal dan waktu setelah waktu saat ini, maka posting akan me
 <li>Tekan <i class="wbi wbi-save"></i> Simpan untuk menyimpan</li>
 
 </ul>
+
+<h4>Menyunting posting</h4>
+
+<p>Kamu bisa menyunting posting yang telah kamu simpan sebagai draf atau telah kamu publikasi sebelumnya.</p>
+
+<ul>
+
+<li>Masuk ke <a class="switch-url" data-url="https://dash.wapblog.id/posts">halaman posting</a></li>
+
+<li>Geser ke bawah dan pilih posting yang akan disunting</li>
+
+<li>Dan mulailah menyunting mana bagian yang kamu inginkan</li>
+
+<li>Tekan <i class="wbi wbi-save"></i> Simpan jika sudah selesai.</li>
+
+</ul>
