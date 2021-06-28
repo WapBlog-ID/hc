@@ -6,7 +6,7 @@
 
 <ul>
 
-<li><a href="https://dash.wapblog.id/pages">Masuk ke <b>Halaman</b> pada menu Dashboard</a></li>
+<li>Masuk ke <a href="https://dash.wapblog.id/pages">Halaman</a> pada menu Dashboard</li>
 
 <li>Isi judul<br />
 Isi judul 3 hingga 40 karakter</li>
