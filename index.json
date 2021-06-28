@@ -1,11 +1,11 @@
 {"id": [
-  ["blog", "globe", "Blog", "Bantuan dasar mengelola blog"],
+  ["blog", "blog", "Blog", "Bantuan dasar mengelola blog"],
   ["forum", "users", "Forum", "Bantuan tata cara menggunakan forum yang baik dan benar"],
-  ["accounts", "vcard", "Akun", "Bantuan cara mengatur prefrensi akun WapBlog.ID"],
-  ["https://docs.wapblog.id", "paint-brush", "Tema", "Bantuan cara membangun tema WapBlog.ID"]
+  ["accounts", "id-card", "Akun", "Bantuan cara mengatur prefrensi akun WapBlog.ID"],
+  ["https://docs.wapblog.id", "layout", "Tema", "Bantuan cara membangun tema WapBlog.ID"]
 ], "en": [
-  ["blog", "globe", "Blog", "Help basic how to manage a blog"],
+  ["blog", "blog", "Blog", "Help basic how to manage a blog"],
   ["forum", "users", "Forum", "Help basic how to using forum"],
-  ["accounts", "vcard", "Accounts", "Help basic how to set up WapBlog.ID Accounts preference"],
-  ["https://docs.wapblog.id", "paint-brush", "Theme", "Help basic how to build a WapBlog.ID Theme"]
+  ["accounts", "id-card", "Accounts", "Help basic how to set up WapBlog.ID Accounts preference"],
+  ["https://docs.wapblog.id", "layout", "Theme", "Help basic how to build a WapBlog.ID Theme"]
 ]}
