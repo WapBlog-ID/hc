@@ -123,6 +123,22 @@ ID</p>
 
 </ul>
 
+<h4>Isu dan Bug</h4>
+
+<p>Bagi kamu yang memanfaatkan bug diseluruh layanan WapBlog.ID dan memilih tidak melaporkan kepada kami atau berusaha memanfaatkan hal tersebut, kami berhak memberi teguran berupa:</p>
+
+<ul>
+
+<li>Menghentikan sementara layanan terkait dengan akses akun</li>
+
+<li>Menangguhkan sementara akses terhadap akunmu</li>
+
+<li>Dan atau Menghapus akun</li>
+
+</ul>
+
+<p>Harap diingat bahwa laporanmu sangat bermanfaat bagi keamanan dan kelancaran dalam menggunakan layanan WapBlog.ID.</p>
+
 <h4>Yang WapBlog.ID Tindak</h4>
 
 <p>Jika kamu melanggar kebijakan yang kami buat diatas, maupun pelanggaran-pelanggaran yang tidak kami sebutkan kami berhak:</p>
@@ -131,7 +147,7 @@ ID</p>
 
 <li>Menghentikan layanan Akun dengan layanan terkait.</li>
 
-<li>Menangghukan sementara akun Anda terhadap seluruh layanan WapBlog.ID</li>
+<li>Menangguhkan sementara akun Anda terhadap seluruh layanan WapBlog.ID</li>
 
 <li>Menghapus akun Anda</li>
 
