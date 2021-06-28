@@ -1,0 +1,34 @@
+<h1>Membuat, menyunting, dan menghapus posting</h1>
+
+<p>Kamu bisa menulis, menyunting dan menghapus posting kapan saja dan dimana saja.</p>
+
+<h4>Menulis atau Membuat posting baru</h4>
+
+<ul>
+
+<li>Masuk ke <a class="switch-url" data-url="https://dash.wapblog.id/posts">halaman posting</a></li>
+
+<li>Dipojok kanan atas, tekan <i class="wbi wbi-write"></i> Tulis Posting</li>
+
+<li>Buat judul</li>
+
+<li>Masukan Tautan permanen jika kamu ingin mengkustom url posting.</li>
+
+<li>Isikan konent<br />
+Format kontent sudah berupa dokumen dan Tekan HTML Mode untuk membuat posting dalam mode HTML.</li>
+
+<li>Centang 1 atau beberapa kategori sekaligus,<br />
+jika belum dan ingin menambahkan kategori tekan <i class="wbi wbi-plus"></i> Tambah.</li>
+
+<li>Masukan tag, pisahkan dengan koma untuk membuat tag baru.</li>
+
+<li>Pilih tanggal dan waktu publikasi posting<br />
+Jika kamu mengisi tanggal dan waktu setelah waktu saat ini, maka posting akan menjadi jadwal dan hanya akan tampil ketika waktu sudah melewati waktu yang kamu tentukan</li>
+
+<li>Pilih status posting<br />
+- Publikasi untuk mengirimkan posting sesuai pengaturan waktu<br />
+- Draf untuk menyimpan posting dan tidak dapat dilihat oleh orang lain.</li>
+
+<li>Tekan <i class="wbi wbi-save"></i> Simpan untuk menyimpan</li>
+
+</ul>
