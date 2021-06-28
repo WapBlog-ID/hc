@@ -123,6 +123,22 @@ ID</p>
 
 </ul>
 
+<h4>Issues and Bugs</h4>
+
+<p>For those of you who take advantage of bugs throughout the WapBlog.ID service and choose not to report to us or try to take advantage of it, we reserve the right to give a warning in the form of:</p>
+
+<ul>
+
+<li>Temporarily stop services related to account access</li>
+
+<li>Temporarily suspend access to your account</li>
+
+<li>And or Delete an account</li>
+
+</ul>
+
+<p>Please remember that your report is very useful for security and convenience in using WapBlog.ID services.</p>
+
 <h4>Which WapBlog.ID acts on</h4>
 
 <p>If you violate the policies that we make above, or violations that we do not mention, we have the right:</p>
