@@ -13,7 +13,10 @@
 <li>Isi kontent (Konten sudah berformat dokumen)<br />
 - Tekan tombol HTML untuk menyunting dokumen dengan format HTML</li>
 
-<li>Klik tambah</li>
+<li>Pilih status halaman<br />
+- Publikasi / Draf</li>
+
+<li>Tekan simpan</li>
 
 </ul>
 
