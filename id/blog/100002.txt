@@ -10,8 +10,11 @@
 
 <li>Isi judul</li>
 
-<li>Isi kontent (Konten sudah berformat dokumen)</li>
+<li>Isi kontent (Konten sudah berformat dokumen)<br />
+- Tekan tombol HTML untuk menyunting dokumen dengan format HTML</li>
 
 <li>Klik tambah</li>
 
 </ul>
+
+<p>Kamu mungkin akan mendapatkan batasan ketika membuat halaman statis, tetapi perlu diingat bahwa pembatasan yang kami terapkan demi menjaga kelancaran dan kenyamanan sesama pengguna.</p>
