@@ -43,8 +43,26 @@ Jika kamu mengisi tanggal dan waktu setelah waktu saat ini, maka posting akan me
 
 <li>Geser ke bawah dan pilih posting yang akan disunting</li>
 
+<li>Tekan <i class="wbi wbi-more-v"></i> dan pilih <i class="wbi wbi-edit"></i> Edit</li>
+
 <li>Dan mulailah menyunting mana bagian yang kamu inginkan</li>
 
 <li>Tekan <i class="wbi wbi-save"></i> Simpan jika sudah selesai.</li>
+
+</ul>
+
+<h4>Menghapus posting</h4>
+
+<p>Kamu bisa menghapus posting secara permanen</p>
+
+<ul>
+
+<li>Masuk ke <a class="switch-url" data-url="https://dash.wapblog.id/posts">halaman posting</a></li>
+
+<li>Geser ke bawah dan pilih posting yang akan dihapus</li>
+
+<li>Tekan <i class="wbi wbi-more-v"></i> dan pilih <i class="wbi wbi-trash"></i> Hapus</li>
+
+<li>Muncul kotak konfirmasi penghapusan, tekan tombol <i class="wbi wbi-trash"></i> Hapus</li>
 
 </ul>
